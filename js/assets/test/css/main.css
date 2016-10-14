@@ -1,3 +1,33 @@
+#Scene1 {
+  width: 100%;
+  font-family: "Roboto";
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background-image: url(../img/mission.jpg);
+  background-repeat: no-repeat;
+  background-color: #FFFFFF;
+  color: #4A4A4A;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+#Scene1 ul {
+  padding-top: 5em;
+  padding-bottom: 4em;
+  height: auto;
+  width: 100%;
+  min-height: 200px;
+}
+#Scene1 li {
+  list-style-type: none;
+  text-align: -webkit-auto;
+  font-size: large;
+  display: -webkit-box;
+  margin-left: 2em;
+  line-height: 1.2em;
+}
+
 /*
  * Globals
  */

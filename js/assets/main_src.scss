@@ -9,6 +9,39 @@ $purple: #553982;
 $light-blue: #63D3E9;
 $brown: #4D2E1A;
 
+#Scene1 {
+  width: 100%;
+  font-family: "Roboto";
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background-image: url(../img/mission.jpg);
+  background-repeat:no-repeat;
+  background-color: $background-color;
+  color: $font-color;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+
+
+  ul {
+    padding-top: 5em;
+    padding-bottom: 4em;
+    height: auto;
+    width: 100%;
+    min-height: 200px;
+  }
+
+  li {
+    list-style-type: none;
+    text-align: -webkit-auto;
+    font-size: large;
+    display: -webkit-box;
+    margin-left: 2em;
+    line-height: 1.2em;
+  }
+}
+
 /*
  * Globals
  */
