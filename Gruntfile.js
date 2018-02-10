@@ -96,7 +96,7 @@ module.exports = function(grunt) {
       files: ['js/assets/scss/*.scss', 'js/controllers/*.js'],
       tasks: ['default'],
       options: {
-        livereload: true
+        livereload: false
       },
     }
   });

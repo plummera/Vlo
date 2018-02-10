@@ -6,7 +6,7 @@ app.controller('MainController', function($scope, $http) {
     });
 
     // Set Title
-    $scope.title = "Personalized Cards inspired by Pink Floyd";
+    $scope.title = "Personalized Cards inspired by Projekt-Phusion";
 
     // Load Data
     $.getScript("js/Cards.json").then(function(data) {
