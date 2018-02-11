@@ -1,16 +1,16 @@
 var Cards = [{
-    'name': 'Roger Waters',
+    'name': 'Anthony Plummer',
     'avatar': 'roger-waters-avatar.png',
     'hero': 'roger-waters-hero.png',
     'primaryColor': 'aqua',
     'ctaColor': 'pink',
     'contactItem': {
-        'phone': '(613) 555-1212',
-        'mobile': '(613) 222-8989',
-        'email': 'dgilmour@pinkfloyd.com'
+        'phone': '(609) 977-6955',
+        'mobile': '(609) 977-6955',
+        'email': 'Anthony@bankofamerica.com'
     }
 }, {
-    'name': 'David Gilmour',
+    'name': 'Christopher Plummer',
     'avatar': 'david-gilmour-avatar.png',
     'hero': 'david-gilmour-hero.png',
     'primaryColor': 'blue',
@@ -18,10 +18,10 @@ var Cards = [{
     'contactItem': {
         'phone': '(613) 555-1212',
         'mobile': '(613) 222-8989',
-        'email': 'rwaters@pinkfloyd.com'
+        'email': 'chris@rockstar.com'
     }
 }, {
-    'name': 'Richard Wright',
+    'name': 'Victoria Plummer',
     'avatar': 'richard-wright-avatar.png',
     'hero': 'richard-wright-hero.png',
     'primaryColor': 'pink',
@@ -29,17 +29,6 @@ var Cards = [{
     'contactItem': {
         'phone': '(613) 555-1212',
         'mobile': '(613) 222-8989',
-        'email': 'rwright@pinkfloyd.com'
-    }
-}, {
-    'name': 'Nick Mason',
-    'avatar': 'nick-mason-avatar.png',
-    'hero': 'nick-mason-hero.png',
-    'primaryColor': 'brown',
-    'ctaColor': 'light-blue',
-    'contactItem': {
-        'phone': '(613) 555-1212',
-        'mobile': '(613) 222-8989',
-        'email': 'nmason@pinkfloyd.com'
+        'email': 'victoria@hra.org'
     }
 }];
