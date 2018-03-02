@@ -1,18 +1,18 @@
 var Cards = [{
     'name': 'Anthony Plummer',
-    'avatar': 'roger-waters-avatar.png',
-    'hero': 'roger-waters-hero.png',
+    'avatar': 'anthony-avatar.jpg',
+    'hero': 'anthony-background.jpg',
     'primaryColor': 'aqua',
     'ctaColor': 'pink',
     'contactItem': {
         'phone': '(609) 977-6955',
         'mobile': '(609) 977-6955',
-        'email': 'Anthony@bankofamerica.com'
+        'email': 'anthony@bankofamerica.com'
     }
 }, {
     'name': 'Christopher Plummer',
-    'avatar': 'david-gilmour-avatar.png',
-    'hero': 'david-gilmour-hero.png',
+    'avatar': 'Chris+Aiden-avatar.jpg',
+    'hero': 'Chris+Aiden-background.jpg',
     'primaryColor': 'blue',
     'ctaColor': 'aqua',
     'contactItem': {
@@ -22,8 +22,8 @@ var Cards = [{
     }
 }, {
     'name': 'Victoria Plummer',
-    'avatar': 'richard-wright-avatar.png',
-    'hero': 'richard-wright-hero.png',
+    'avatar': 'victoria-avatar.jpg',
+    'hero': 'victoria-background.jpg',
     'primaryColor': 'pink',
     'ctaColor': 'purple',
     'contactItem': {
