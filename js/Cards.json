@@ -7,7 +7,7 @@ var Cards = [{
     'contactItem': {
         'phone': '(609) 977-6955',
         'mobile': '(609) 977-6955',
-        'email': 'anthony@bankofamerica.com'
+        'email': 'anthony@psda.com'
     }
 }, {
     'name': 'Christopher Plummer',
