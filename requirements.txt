@@ -1,0 +1,12 @@
+babel-core
+bootstrap
+grunt
+grunt-contrib-compass
+grunt-contrib-concat
+grunt-contrib-jshint
+grunt-contrib-livereload
+grunt-contrib-qunit
+grunt-contrib-sass
+grunt-contrib-uglify
+grunt-contrib-watch
+lite-server
