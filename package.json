@@ -13,7 +13,6 @@
     "start": "npm run lite",
     "lite": "lite-server",
     "test": "test",
-    "postinstall": "ng build --aot -prod"
   },
   "repository": {
     "type": "git",
