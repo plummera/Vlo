@@ -12,7 +12,7 @@
   "scripts": {
     "start": "npm run lite",
     "lite": "lite-server",
-    "test": "test",
+    "test": "test"
   },
   "repository": {
     "type": "git",
