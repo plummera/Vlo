@@ -10,8 +10,10 @@
   },
   "main": "app.js",
   "scripts": {
-    "start": "npm run lite",
     "lite": "lite-server",
+    "postinstall": "npm run build:ssr",
+    "start": "npm run lite",
+    "start:heroku": "node dist/server",
     "test": "test"
   },
   "repository": {
