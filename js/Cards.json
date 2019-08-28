@@ -32,3 +32,5 @@ var Cards = [{
         'email': 'victoria@hra.org'
     }
 }];
+
+var content = [{}];
